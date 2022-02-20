@@ -1,4 +1,4 @@
-package exchange
+package main
 
 import (
 	"container/heap"
